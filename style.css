@@ -1,6 +1,6 @@
 bodybody {background-color: rgb(255, 255, 255)
 ;}
-.caixa{background-color: rgb(245, 43, 43);}
+.caixa{background-color: rgb(14, 26, 80);}
     .alinhamento{text-align: center;}
 h2{color:white;}
 {
@@ -13,7 +13,7 @@ h1 {
     font-size: larger;
 }
 h2 {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-weight:200;
 }
 
